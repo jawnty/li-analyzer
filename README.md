@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script helps identify potential leads for AI consulting services from your 1st-degree LinkedIn network. It filters connections based on the market capitalization of the companies they work for and their estimated seniority level within those companies.
+This Python script helps identify potential leads from your 1st-degree LinkedIn network. It filters connections based on the market capitalization of the companies they work for and their estimated seniority level within those companies.
 
 The script processes two CSV files: one with your LinkedIn connections and another with public company data. It uses fuzzy matching to link connections to companies and a keyword-based scoring system to estimate seniority.
 
